@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>创作者推荐 - 2049DH</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo"><span class="logo-icon">⚡</span><span class="logo-text">2049</span></div>
+            <ul class="nav-links">
+                <li><a href="index.html">首页</a></li>
+                <li><a href="tools.html">🛠 工具</a></li>
+                <li><a href="creators.html" class="active">🎥 创作者</a></li>
+                <li><a href="tutorials.html">📖 教程</a></li>
+                <li><a href="prompts.html">✨ 提示词</a></li>
+            </ul>
+        </div>
+    </nav>
+    <main class="main-content">
+        <section class="creators-header">
+            <div class="container">
+                <h1>🎥 优质创作者推荐</h1>
+            </div>
+        </section>
+        <section>
+            <div class="container">
+                <h2>📺 B站博主</h2>
+                <div class="creators-grid">
+                    <div class="creator-card">
+                        <h3>AI工具测评师</h3>
+                        <p>专业测评全球AI工具。粉丝: 50万+</p>
+                        <a href="https://space.bilibili.com" target="_blank">访问</a>
+                    </div>
+                    <div class="creator-card">
+                        <h3>MidJourney创意达人</h3>
+                        <p>深度教学MidJourney。粉丝: 30万+</p>
+                        <a href="https://space.bilibili.com" target="_blank">访问</a>
+                    </div>
+                </div>
+                <h2>🐦 推特博主</h2>
+                <div class="creators-grid">
+                    <div class="creator-card">
+                        <h3>@AI资讯播报</h3>
+                        <p>实时播报全球AI资讯。粉丝: 100万+</p>
+                        <a href="https://twitter.com" target="_blank">访问</a>
+                    </div>
+                    <div class="creator-card">
+                        <h3>@Prompt工程师</h3>
+                        <p>分享Prompt设计最佳实践。粉丝: 80万+</p>
+                        <a href="https://twitter.com" target="_blank">访问</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer class="footer"><p>&copy; 2049DH Navigation</p></footer>
+</body>
+</html>
